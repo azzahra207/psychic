@@ -1,0 +1,35 @@
+/* @font-face {
+    font-family: 'Nexa';
+    src: url('/fonts/Nexa-ExtraLight.ttf') format('truetype');
+    font-style: normal;
+}
+    @font-face{
+        font-family: 'Nexa Bold';
+        src: url("c9f309b3d47969ecac64a77a6c672594.eot");
+        src: url("c9f309b3d47969ecac64a77a6c672594.eot?#iefix")format("embedded-opentype"),
+            url("c9f309b3d47969ecac64a77a6c672594.woff")format("woff"),
+            url("c9f309b3d47969ecac64a77a6c672594.woff2")format("woff2"),
+            url("c9f309b3d47969ecac64a77a6c672594.ttf")format("truetype"),
+            url("c9f309b3d47969ecac64a77a6c672594.svg#Nexa Bold")format("svg");
+        font-weight:normal;
+        font-style:normal;
+        font-display:swap;
+    }
+    *{
+        font-family: 'Nexa';
+        font-weight: bold;
+    }
+.akun{
+    width: 30%;
+}
+
+
+
+#menu:hover{
+    background-color: aliceblue;
+    transition-duration:0.4s;
+    border-radius: 4%;
+    box-shadow: 5% 5% 3%;
+    
+} */
+

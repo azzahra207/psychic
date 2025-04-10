@@ -1,0 +1,21 @@
+footer{
+    background-image: url(http://localhost:8000/img/footer.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+#foot {
+    color:white;
+}
+@media only screen and (max-width: 767px){
+    #foot {
+        width:100%; 
+    }
+    img{
+        height:auto;
+    }
+}
+@media only screen and (min-width:768px){
+    #foot {
+        width:25%;
+    }
+}
